@@ -1,0 +1,15 @@
+# Editor swap files
+*.swp
+*.swo
+
+# Compiled binaries
+*.o
+*.out
+*.exe
+
+# Build folders
+build/
+
+# IDE / editor settings
+.vscode/
+.idea/
